@@ -1,0 +1,7 @@
+{
+    "build_timestamp": "{{isotime \"2006-01-02T15-04-05\"}}",
+    "headless": "true",
+    "http_proxy": "",
+    "https_proxy": "",
+    "no_proxy": ""
+}

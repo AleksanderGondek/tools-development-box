@@ -1,2 +1,25 @@
 # tools-development-box
-Vagrant box, with all batteries I need for development, included
+Vagrant box, with all batteries I need for development, included.
+
+## Known issues
+* Ubuntu 14.04.5 x64 ISO image SHA-256 checksum is invalid for both file and web download
+
+## Acknowledgements
+
+* Tools-development-box is heavily based on *Fedora(x64)* and *Ubuntu(x64)* boxes from Chefs [Bento project](https://github.com/chef/bento).
+
+## License
+
+Copyright **2016** - Aleksander Gondek
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
